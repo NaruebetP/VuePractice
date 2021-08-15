@@ -1,2 +1,2 @@
 # VuePractice
-Leaning Vue.js 
+Learning Vue.js 
