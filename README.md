@@ -1,2 +1,2 @@
 # VuePractice
-Learning Vue.js 
+Learning Vue.js => Basic todo-lists
